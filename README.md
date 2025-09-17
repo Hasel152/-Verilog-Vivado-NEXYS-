@@ -3,7 +3,7 @@
 A digital password lock implemented on a NEXYS 4 DDR FPGA board. This project was developed for the Digital System Design course at the Southeast University (SEU) Summer School.
 
 本项目是一个基于 **NEXYS 4** DDR 开发板实现的四位数字密码锁。它是为**东南大学(SEU)**暑期学校的《数字系统设计》课程而设计的。
-
+（笔者还没打磨好ＲＥＡＤＭＥ）
 ---
 
 ## 🚀 主要功能 (Features)
